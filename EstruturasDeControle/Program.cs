@@ -4,27 +4,23 @@ namespace EstruturasDeControle
     internal class Program
     {
         static void Main(string[] args)
-        { 
-            Console.WriteLine("Executando o projeto 6 - Estruturas de Controle");
-            int idadeJoao = 16;
-            int quantidadePessoas = 2;
-            if (idadeJoao >= 18)
+        {
+            Console.WriteLine("Você é um cliente especial? (S/N):\n");
+            string resposta = Console.ReadLine().ToUpper();
+
+            if(resposta == "S")
             {
-                Console.WriteLine("João é maior de idade.");
+                Console.WriteLine("\nDesconto de 10%");
+            } else if (resposta == "N")
+                {
+                Console.WriteLine("Sem desconto");
             }
             else
             {
-                if (quantidadePessoas >= 2)
-                {
-                    Console.WriteLine("João é menor de idade, mas está acompanhado.");
-                }
-                else
-                {
-                    Console.WriteLine("João é menor de idade e não está acompanhado.");
-                }
+                Console.WriteLine("Você digitou um caractere inválido!!\n");
             }
-            Console.WriteLine("Tecle enter para fechar...");
-            Console.ReadLine();
+                Console.WriteLine("\nFIM DO PROCESSAMENTO");
+            Console.ReadKey();
         }
     }
 }
