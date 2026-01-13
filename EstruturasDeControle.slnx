@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="EstruturasDeControle/EstruturasDeControle.csproj" />
+  <Project Path="SwitchCase/SwitchCase.csproj" Id="ca62ab00-2422-4626-9950-7f0da51e55fc" />
 </Solution>
