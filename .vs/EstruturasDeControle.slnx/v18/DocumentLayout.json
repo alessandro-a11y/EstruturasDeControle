@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|c:\\users\\55879\\onedrive\\desktop\\estruturasdecontrole\\estruturasdecontrole\\ifandelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|solutionrelative:estruturasdecontrole\\ifandelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|c:\\users\\55879\\onedrive\\desktop\\estruturasdecontrole\\estruturasdecontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|solutionrelative:estruturasdecontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IfAndElse.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\IfAndElse.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\IfAndElse.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\IfAndElse.cs",
+              "RelativeToolTip": "EstruturasDeControle\\IfAndElse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:43:47.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\Program.cs",
               "RelativeDocumentMoniker": "EstruturasDeControle\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\Program.cs*",
-              "RelativeToolTip": "EstruturasDeControle\\Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBoAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\Program.cs",
+              "RelativeToolTip": "EstruturasDeControle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T12:50:04.011Z",
               "EditorCaption": ""
