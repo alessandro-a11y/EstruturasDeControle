@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\bin\Debug\net10.0\EstruturasDeRepetição.exe
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\bin\Debug\net10.0\EstruturasDeRepetição.deps.json
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\bin\Debug\net10.0\EstruturasDeRepetição.runtimeconfig.json
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\bin\Debug\net10.0\EstruturasDeRepetição.dll
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\bin\Debug\net10.0\EstruturasDeRepetição.pdb
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\EstruturasDeRepetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\EstruturasDeRepetição.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\EstruturasDeRepetição.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\EstruturasDeRepetição.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\EstruturasDeRepetição.sourcelink.json
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\EstruturasDeRepetição.dll
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\refint\EstruturasDeRepetição.dll
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\EstruturasDeRepetição.pdb
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\EstruturasDeRepetição.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Imágenes\Documentos\IMPORTANTES\EstruturasDeControle\EstruturasDeRepetição\obj\Debug\net10.0\ref\EstruturasDeRepetição.dll
