@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\",
+  "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA62AB00-2422-4626-9950-7F0DA51E55FC}|SwitchCase\\SwitchCase.csproj|c:\\users\\55879\\onedrive\\desktop\\estruturasdecontrole\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A7CC870-6245-4EC5-B503-48E1892F84A4}|EstruturasDeRepeti\u00E7\u00E3o\\EstruturasDeRepeti\u00E7\u00E3o.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\estruturasderepeti\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7CC870-6245-4EC5-B503-48E1892F84A4}|EstruturasDeRepeti\u00E7\u00E3o\\EstruturasDeRepeti\u00E7\u00E3o.csproj|solutionrelative:estruturasderepeti\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA62AB00-2422-4626-9950-7F0DA51E55FC}|SwitchCase\\SwitchCase.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\switchcase\\switchaninhadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA62AB00-2422-4626-9950-7F0DA51E55FC}|SwitchCase\\SwitchCase.csproj|solutionrelative:switchcase\\switchaninhadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA62AB00-2422-4626-9950-7F0DA51E55FC}|SwitchCase\\SwitchCase.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA62AB00-2422-4626-9950-7F0DA51E55FC}|SwitchCase\\SwitchCase.csproj|solutionrelative:switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|c:\\users\\55879\\onedrive\\desktop\\estruturasdecontrole\\estruturasdecontrole\\ifandelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\estruturasdecontrole\\ifandelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|solutionrelative:estruturasdecontrole\\ifandelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|c:\\users\\55879\\onedrive\\desktop\\estruturasdecontrole\\estruturasdecontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\estruturasdecontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB2949D8-070B-84FA-CF43-8BC5AAA71D8D}|EstruturasDeControle\\EstruturasDeControle.csproj|solutionrelative:estruturasdecontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,35 +36,60 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\SwitchCase\\Program.cs",
-              "RelativeDocumentMoniker": "SwitchCase\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\SwitchCase\\Program.cs*",
-              "RelativeToolTip": "SwitchCase\\Program.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCMAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\EstruturasDeRepeti\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturasDeRepeti\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\EstruturasDeRepeti\u00E7\u00E3o\\Program.cs*",
+              "RelativeToolTip": "EstruturasDeRepeti\u00E7\u00E3o\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T17:11:37.505Z",
+              "WhenOpened": "2026-01-14T13:06:06.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IfAndElse.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\IfAndElse.cs",
-              "RelativeDocumentMoniker": "EstruturasDeControle\\IfAndElse.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\IfAndElse.cs",
-              "RelativeToolTip": "EstruturasDeControle\\IfAndElse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Title": "SwitchAninhadas.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\SwitchAninhadas.cs",
+              "RelativeDocumentMoniker": "SwitchCase\\SwitchAninhadas.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\SwitchAninhadas.cs",
+              "RelativeToolTip": "SwitchCase\\SwitchAninhadas.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCQAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T14:43:47.031Z",
+              "WhenOpened": "2026-01-14T12:44:34.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchCase\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\Program.cs",
+              "RelativeToolTip": "SwitchCase\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:11:37.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IfAndElse.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\EstruturasDeControle\\IfAndElse.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\IfAndElse.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\EstruturasDeControle\\IfAndElse.cs",
+              "RelativeToolTip": "EstruturasDeControle\\IfAndElse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:43:47.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\EstruturasDeControle\\Program.cs",
               "RelativeDocumentMoniker": "EstruturasDeControle\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\EstruturasDeControle\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\EstruturasDeControle\\Program.cs",
               "RelativeToolTip": "EstruturasDeControle\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
