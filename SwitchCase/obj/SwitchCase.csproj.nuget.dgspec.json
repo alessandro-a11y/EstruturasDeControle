@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\SwitchCase\\SwitchCase.csproj": {}
+    "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\SwitchCase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\SwitchCase\\SwitchCase.csproj": {
+    "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\SwitchCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\SwitchCase\\SwitchCase.csproj",
+        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\SwitchCase.csproj",
         "projectName": "SwitchCase",
-        "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\SwitchCase\\SwitchCase.csproj",
+        "projectPath": "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\SwitchCase.csproj",
         "packagesPath": "C:\\Users\\55879\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\EstruturasDeControle\\SwitchCase\\obj\\",
+        "outputPath": "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\SwitchCase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
