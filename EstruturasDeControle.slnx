@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="EstruturasDeControle/EstruturasDeControle.csproj" />
+  <Project Path="EstruturasDeRepetição/EstruturasDeRepetição.csproj" Id="3a7cc870-6245-4ec5-b503-48e1892f84a4" />
   <Project Path="SwitchCase/SwitchCase.csproj" Id="ca62ab00-2422-4626-9950-7f0da51e55fc" />
 </Solution>
