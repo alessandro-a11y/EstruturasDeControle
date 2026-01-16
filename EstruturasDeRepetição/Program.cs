@@ -1,33 +1,33 @@
-﻿using System;
-namespace EstruturasDeRepetição
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            var num = 1;
-            do
-            {
-                Console.WriteLine($"Repetição número {num}");
-                num++;
-                if (num > 5)
-                {
-                    Console.WriteLine("Desejar continuar? s/n");
-                    var resposta = Console.ReadLine().ToLower();
-                    if (resposta == "s")
-                    {
-                        num = 1;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Fim do processamento");
-                        break;
-                    }
-                }
-            } while (num <= 10);
-        }
-    }
-}
+﻿//using System;
+//namespace EstruturasDeRepetição
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            var num = 1;
+//            do
+//            {
+//                Console.WriteLine($"Repetição número {num}");
+//                num++;
+//                if (num > 5)
+//                {
+//                    Console.WriteLine("Desejar continuar? s/n");
+//                    var resposta = Console.ReadLine().ToLower();
+//                    if (resposta == "s")
+//                    {
+//                        num = 1;
+//                    }
+//                    else
+//                    {
+//                        Console.WriteLine("Fim do processamento");
+//                        break;
+//                    }
+//                }
+//            } while (num <= 10);
+//        }
+//    }
+//}
 
 //int i = 1;
 
