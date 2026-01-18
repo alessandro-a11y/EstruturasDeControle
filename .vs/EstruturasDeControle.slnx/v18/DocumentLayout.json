@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\exercicios\\exe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|solutionrelative:exercicios\\exe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\exercicios\\exe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|solutionrelative:exercicios\\exe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\exercicios\\exe9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|solutionrelative:exercicios\\exe9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\exercicios\\exe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|solutionrelative:exercicios\\exe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\exercicios\\exe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|solutionrelative:exercicios\\exe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\estruturasdecontrole\\exercicios\\exe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C0FCE42-AFA7-4519-AAF5-A3A3F60A3158}|exercicios\\exercicios.csproj|solutionrelative:exercicios\\exe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Exe9.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe9.cs",
               "RelativeDocumentMoniker": "exercicios\\Exe9.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe9.cs*",
-              "RelativeToolTip": "exercicios\\Exe9.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAA0AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe9.cs",
+              "RelativeToolTip": "exercicios\\Exe9.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T22:59:06.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Exe8.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe8.cs",
-              "RelativeDocumentMoniker": "exercicios\\Exe8.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe8.cs",
-              "RelativeToolTip": "exercicios\\Exe8.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T22:48:09.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Exe7.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe7.cs",
               "RelativeDocumentMoniker": "exercicios\\Exe7.cs",
@@ -89,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Exe6.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe6.cs",
               "RelativeDocumentMoniker": "exercicios\\Exe6.cs",
@@ -102,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Exe5.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe5.cs",
               "RelativeDocumentMoniker": "exercicios\\Exe5.cs",
@@ -115,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "exe4.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\exe4.cs",
               "RelativeDocumentMoniker": "exercicios\\exe4.cs",
@@ -128,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "exe3.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\exe3.cs",
               "RelativeDocumentMoniker": "exercicios\\exe3.cs",
@@ -141,28 +128,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "exe2.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\exe2.cs",
               "RelativeDocumentMoniker": "exercicios\\exe2.cs",
               "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\exe2.cs",
               "RelativeToolTip": "exercicios\\exe2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T21:43:14.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "exe1.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\exe1.cs",
               "RelativeDocumentMoniker": "exercicios\\exe1.cs",
               "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\exe1.cs",
               "RelativeToolTip": "exercicios\\exe1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T00:53:07.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exe8.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe8.cs",
+              "RelativeDocumentMoniker": "exercicios\\Exe8.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\EstruturasDeControle\\exercicios\\Exe8.cs",
+              "RelativeToolTip": "exercicios\\Exe8.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T22:48:09.459Z",
               "EditorCaption": ""
             }
           ]
